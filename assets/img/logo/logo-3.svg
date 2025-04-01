@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 636 687">
+  <defs>
+    <style>
+      .cls-1 {
+        mask: url(#mask-15);
+      }
+
+      .cls-2 {
+        mask: url(#mask-5);
+      }
+
+      .cls-3 {
+        mask: url(#mask-13);
+      }
+
+      .cls-4 {
+        mask: url(#mask-1);
+      }
+
+      .cls-5 {
+        mask: url(#mask-10);
+      }
+
+      .cls-6 {
+        mask: url(#mask-6);
+      }
+
+      .cls-7 {
+        mask: url(#mask-7);
+      }
+
+      .cls-8 {
+        mask: url(#mask-18);
+      }
+
+      .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-10 {
+        mask: url(#mask-17);
+      }
+
+      .cls-11 {
+        mask: url(#mask);
+      }
+
+      .cls-12 {
+        mask: url(#mask-20);
+      }
+
+      .cls-13 {
+        font-family: Alexandria-SemiBold, Alexandria;
+        font-size: 48.24px;
+        font-variation-settings: 'wght' 600;
+        font-weight: 600;
+      }
+
+      .cls-13, .cls-14 {
+        fill: #1d242e;
+      }
+
+      .cls-15 {
+        mask: url(#mask-8);
+      }
+
+      .cls-16 {
+        mask: url(#mask-2);
+      }
+
+      .cls-17 {
+        mask: url(#mask-9);
+      }
+
+      .cls-18 {
+        mask: url(#mask-21);
+      }
+
+      .cls-19 {
+        mask: url(#mask-16);
+      }
+
+      .cls-20 {
+        mask: url(#mask-19);
+      }
+
+      .cls-21 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-22 {
+        mask: url(#mask-11);
+      }
+
+      .cls-23 {
+        mask: url(#mask-12);
+      }
+
+      .cls-24 {
+        mask: url(#mask-4);
+      }
+
+      .cls-25 {
+        mask: url(#mask-14);
+      }
+
+      .cls-26 {
+        mask: url(#mask-3);
+      }
+    </style>
+    <mask id="mask" x="398.91" y="238.2" width="21.47" height="125.9" maskUnits="userSpaceOnUse">
+      <g id="mask0_328_19613" data-name="mask0 328 19613">
+        <path class="cls-9" d="M420.38,238.2h-21.47v125.9h21.47v-125.9Z"/>
+      </g>
+    </mask>
+    <mask id="mask-1" x="398.91" y="238.2" width="21.47" height="125.9" maskUnits="userSpaceOnUse">
+      <g id="mask1_328_19613" data-name="mask1 328 19613">
+        <path class="cls-9" d="M409.64,238.2c5.93,0,10.74,4.81,10.74,10.73v104.4c0,5.93-4.81,10.73-10.74,10.73s-10.73-4.81-10.73-10.73v-104.4c0-5.93,4.81-10.73,10.73-10.73Z"/>
+      </g>
+    </mask>
+    <mask id="mask-2" x="304.31" y="266.7" width="120.4" height="101.97" maskUnits="userSpaceOnUse">
+      <g id="mask2_328_19613" data-name="mask2 328 19613">
+        <path class="cls-9" d="M420.88,270.62h-112.75v94.15h112.75v-94.15Z"/>
+      </g>
+    </mask>
+    <mask id="mask-3" x="304.31" y="266.7" width="120.4" height="101.97" maskUnits="userSpaceOnUse">
+      <g id="mask3_328_19613" data-name="mask3 328 19613">
+        <path class="cls-9" d="M310.96,275.04h0c-3.67,4.62-2.91,11.33,1.7,15l90.42,71.97c4.61,3.67,11.32,2.91,14.99-1.7h0c3.67-4.61,2.91-11.33-1.7-15l-90.42-71.97c-4.61-3.67-11.32-2.91-14.99,1.7Z"/>
+      </g>
+    </mask>
+    <mask id="mask-4" x="304.31" y="266.7" width="120.4" height="101.97" maskUnits="userSpaceOnUse">
+      <g id="mask4_328_19613" data-name="mask4 328 19613">
+        <path class="cls-9" d="M310.96,275.04c3.67-4.61,10.39-5.37,15-1.7l90.39,71.96c4.61,3.68,5.37,10.39,1.7,15-3.68,4.61-10.39,5.37-15,1.7l-90.39-71.96c-4.61-3.67-5.37-10.39-1.7-15Z"/>
+      </g>
+    </mask>
+    <mask id="mask-5" x="307.1" y="311.85" width="10.33" height="9.92" maskUnits="userSpaceOnUse">
+      <g id="mask5_328_19613" data-name="mask5 328 19613">
+        <path class="cls-9" d="M317.42,311.85h-10.33v9.92h10.33v-9.92Z"/>
+      </g>
+    </mask>
+    <mask id="mask-6" x="307.1" y="311.85" width="21.82" height="21.82" maskUnits="userSpaceOnUse">
+      <g id="mask6_328_19613" data-name="mask6 328 19613">
+        <path class="cls-9" d="M307.1,312.72v20.07c0,.48.38.87.87.87h20.07c.48,0,.87-.39.87-.87v-20.07c0-.23-.09-.46-.26-.62-.17-.16-.38-.26-.62-.26h-20.07c-.48,0-.87.39-.87.87Z"/>
+      </g>
+    </mask>
+    <mask id="mask-7" x="318.59" y="311.85" width="10.31" height="9.92" maskUnits="userSpaceOnUse">
+      <g id="mask7_328_19613" data-name="mask7 328 19613">
+        <path class="cls-9" d="M328.9,311.85h-10.31v9.92h10.31v-9.92Z"/>
+      </g>
+    </mask>
+    <mask id="mask-8" x="307.1" y="311.85" width="21.82" height="21.82" maskUnits="userSpaceOnUse">
+      <g id="mask8_328_19613" data-name="mask8 328 19613">
+        <path class="cls-9" d="M307.1,312.72v20.07c0,.48.38.87.87.87h20.07c.48,0,.87-.39.87-.87v-20.07c0-.23-.09-.46-.26-.62-.17-.16-.38-.26-.62-.26h-20.07c-.48,0-.87.39-.87.87Z"/>
+      </g>
+    </mask>
+    <mask id="mask-9" x="307.1" y="322.93" width="10.33" height="10.71" maskUnits="userSpaceOnUse">
+      <g id="mask9_328_19613" data-name="mask9 328 19613">
+        <path class="cls-9" d="M317.42,322.93h-10.33v10.71h10.33v-10.71Z"/>
+      </g>
+    </mask>
+    <mask id="mask-10" x="307.1" y="311.85" width="21.82" height="21.82" maskUnits="userSpaceOnUse">
+      <g id="mask10_328_19613" data-name="mask10 328 19613">
+        <path class="cls-9" d="M307.1,312.72v20.07c0,.48.38.87.87.87h20.07c.48,0,.87-.39.87-.87v-20.07c0-.23-.09-.46-.26-.62-.17-.16-.38-.26-.62-.26h-20.07c-.48,0-.87.39-.87.87Z"/>
+      </g>
+    </mask>
+    <mask id="mask-11" x="318.59" y="322.93" width="10.31" height="10.71" maskUnits="userSpaceOnUse">
+      <g id="mask11_328_19613" data-name="mask11 328 19613">
+        <path class="cls-9" d="M328.9,322.93h-10.31v10.71h10.31v-10.71Z"/>
+      </g>
+    </mask>
+    <mask id="mask-12" x="307.1" y="311.85" width="21.82" height="21.82" maskUnits="userSpaceOnUse">
+      <g id="mask12_328_19613" data-name="mask12 328 19613">
+        <path class="cls-9" d="M307.1,312.72v20.07c0,.48.38.87.87.87h20.07c.48,0,.87-.39.87-.87v-20.07c0-.23-.09-.46-.26-.62-.17-.16-.38-.26-.62-.26h-20.07c-.48,0-.87.39-.87.87Z"/>
+      </g>
+    </mask>
+    <mask id="mask-13" x="211.31" y="238.85" width="21.47" height="125.9" maskUnits="userSpaceOnUse">
+      <g id="mask13_328_19613" data-name="mask13 328 19613">
+        <path class="cls-9" d="M232.78,238.85h-21.47v125.9h21.47v-125.9Z"/>
+      </g>
+    </mask>
+    <mask id="mask-14" x="211.31" y="238.85" width="21.47" height="125.9" maskUnits="userSpaceOnUse">
+      <g id="mask14_328_19613" data-name="mask14 328 19613">
+        <path class="cls-9" d="M222.05,238.85c5.93,0,10.74,4.81,10.74,10.73v104.4c0,5.93-4.81,10.73-10.74,10.73s-10.73-4.81-10.73-10.73v-104.4c0-5.93,4.81-10.73,10.73-10.73Z"/>
+      </g>
+    </mask>
+    <mask id="mask-15" x="257.81" y="266.99" width="75.45" height="66.94" maskUnits="userSpaceOnUse">
+      <g id="mask15_328_19613" data-name="mask15 328 19613">
+        <path class="cls-9" d="M329.05,270.62h-67.42v59.28h67.42v-59.28Z"/>
+      </g>
+    </mask>
+    <mask id="mask-16" x="257.81" y="266.99" width="75.45" height="66.94" maskUnits="userSpaceOnUse">
+      <g id="mask16_328_19613" data-name="mask16 328 19613">
+        <path class="cls-9" d="M311.58,273.67l-45.49,36.97c-4.57,3.72-5.27,10.44-1.55,15.01h0c3.72,4.58,10.44,5.27,15.01,1.56l45.49-36.97c4.57-3.72,5.27-10.44,1.55-15.01h0c-3.72-4.58-10.44-5.27-15.01-1.56Z"/>
+      </g>
+    </mask>
+    <mask id="mask-17" x="257.81" y="266.99" width="75.45" height="66.94" maskUnits="userSpaceOnUse">
+      <g id="mask17_328_19613" data-name="mask17 328 19613">
+        <path class="cls-9" d="M264.53,325.64c-3.71-4.57-3.02-11.29,1.55-15.01l45.46-36.94c4.57-3.72,11.29-3.02,15.01,1.55,3.72,4.58,3.02,11.29-1.55,15.01l-45.46,36.93c-4.57,3.72-11.29,3.02-15.01-1.55Z"/>
+      </g>
+    </mask>
+    <mask id="mask-18" x="211.28" y="238.85" width="84.28" height="21.71" maskUnits="userSpaceOnUse">
+      <g id="mask18_328_19613" data-name="mask18 328 19613">
+        <path class="cls-9" d="M295.56,238.85h-84.27v21.7h84.27v-21.7Z"/>
+      </g>
+    </mask>
+    <mask id="mask-19" x="211.28" y="238.85" width="84.28" height="21.71" maskUnits="userSpaceOnUse">
+      <g id="mask19_328_19613" data-name="mask19 328 19613">
+        <path class="cls-9" d="M295.56,249.7c0,2.88-1.14,5.64-3.18,7.67-2.03,2.03-4.79,3.18-7.67,3.18h-62.55c-2.88,0-5.64-1.14-7.67-3.18-2.03-2.03-3.18-4.8-3.18-7.67s1.14-5.64,3.18-7.67c2.04-2.04,4.8-3.18,7.67-3.18h62.55c2.88,0,5.64,1.14,7.67,3.18,2.03,2.03,3.18,4.8,3.18,7.67Z"/>
+      </g>
+    </mask>
+    <mask id="mask-20" x="244.12" y="277.83" width="22.13" height="22.13" maskUnits="userSpaceOnUse">
+      <g id="mask20_328_19613" data-name="mask20 328 19613">
+        <path class="cls-9" d="M265.56,278.52h-20.75v20.75h20.75v-20.75Z"/>
+      </g>
+    </mask>
+    <mask id="mask-21" x="244.12" y="277.83" width="22.13" height="22.13" maskUnits="userSpaceOnUse">
+      <g id="mask21_328_19613" data-name="mask21 328 19613">
+        <path class="cls-9" d="M256.41,279.06l8.6,8.6c.33.33.51.77.51,1.23s-.18.91-.51,1.24l-8.6,8.6c-.33.33-.77.51-1.23.51s-.91-.18-1.24-.51l-8.6-8.6c-.33-.33-.51-.77-.51-1.24s.18-.9.51-1.23l8.6-8.6c.33-.33.77-.51,1.24-.51s.9.18,1.23.51Z"/>
+      </g>
+    </mask>
+  </defs>
+  <g>
+    <g class="cls-11">
+      <g>
+        <path class="cls-14" d="M409.64,238.2c5.93,0,10.74,4.81,10.74,10.73v104.4c0,5.93-4.81,10.73-10.74,10.73s-10.73-4.81-10.73-10.73v-104.4c0-5.93,4.81-10.73,10.73-10.73Z"/>
+        <g class="cls-4">
+          <path class="cls-14" d="M398.91,238.2h21.47v125.9h-21.47v-125.9Z"/>
+        </g>
+      </g>
+    </g>
+    <g class="cls-16">
+      <g>
+        <path class="cls-14" d="M310.96,275.04h0c-3.67,4.62-2.91,11.33,1.7,15l90.42,71.97c4.61,3.67,11.32,2.91,14.99-1.7h0c3.67-4.61,2.91-11.33-1.7-15l-90.42-71.97c-4.61-3.67-11.32-2.91-14.99,1.7Z"/>
+        <g class="cls-26">
+          <g>
+            <path class="cls-14" d="M310.96,275.04c3.67-4.61,10.39-5.37,15-1.7l90.39,71.96c4.61,3.68,5.37,10.39,1.7,15-3.68,4.61-10.39,5.37-15,1.7l-90.39-71.96c-4.61-3.67-5.37-10.39-1.7-15Z"/>
+            <g class="cls-24">
+              <path class="cls-14" d="M304.31,283.4l13.29-16.7,107.11,85.27-13.29,16.7-107.11-85.27Z"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="cls-2">
+      <g class="cls-6">
+        <path class="cls-14" d="M316.25,311.85h-8.72c-.24,0-.43.19-.43.43v8.72c0,.24.2.43.43.43h8.72c.24,0,.43-.2.43-.43v-8.72c0-.24-.2-.43-.43-.43Z"/>
+      </g>
+    </g>
+    <g class="cls-7">
+      <g class="cls-15">
+        <path class="cls-14" d="M328.46,311.85h-8.72c-.25,0-.43.19-.43.43v8.72c0,.24.19.43.43.43h8.72c.24,0,.43-.2.43-.43v-8.72c0-.24-.2-.43-.43-.43Z"/>
+      </g>
+    </g>
+    <g class="cls-17">
+      <g class="cls-5">
+        <path class="cls-14" d="M316.25,324.06h-8.72c-.24,0-.43.2-.43.43v8.72c0,.24.2.43.43.43h8.72c.24,0,.43-.2.43-.43v-8.72c0-.24-.2-.43-.43-.43Z"/>
+      </g>
+    </g>
+    <g class="cls-22">
+      <g class="cls-23">
+        <path class="cls-14" d="M328.46,324.06h-8.72c-.25,0-.43.2-.43.43v8.72c0,.24.19.43.43.43h8.72c.24,0,.43-.2.43-.43v-8.72c0-.24-.2-.43-.43-.43Z"/>
+      </g>
+    </g>
+    <g class="cls-3">
+      <g>
+        <path class="cls-14" d="M222.05,238.85c5.93,0,10.74,4.81,10.74,10.73v104.4c0,5.93-4.81,10.73-10.74,10.73s-10.73-4.81-10.73-10.73v-104.4c0-5.93,4.81-10.73,10.73-10.73Z"/>
+        <g class="cls-25">
+          <path class="cls-14" d="M211.31,238.85h21.47v125.9h-21.47v-125.9Z"/>
+        </g>
+      </g>
+    </g>
+    <g class="cls-1">
+      <g>
+        <path class="cls-14" d="M311.58,273.67l-45.49,36.97c-4.57,3.72-5.27,10.44-1.55,15.01h0c3.72,4.58,10.44,5.27,15.01,1.56l45.49-36.97c4.57-3.72,5.27-10.44,1.55-15.01h0c-3.72-4.58-10.44-5.27-15.01-1.56Z"/>
+        <g class="cls-19">
+          <g>
+            <path class="cls-14" d="M264.53,325.64c-3.71-4.57-3.02-11.29,1.55-15.01l45.46-36.94c4.57-3.72,11.29-3.02,15.01,1.55,3.72,4.58,3.02,11.29-1.55,15.01l-45.46,36.93c-4.57,3.72-11.29,3.02-15.01-1.55Z"/>
+            <g class="cls-10">
+              <path class="cls-14" d="M271.27,333.92l-13.46-16.56,61.99-50.37,13.46,16.56-61.99,50.37Z"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="cls-8">
+      <g>
+        <path class="cls-14" d="M295.56,249.7c0,2.88-1.14,5.64-3.18,7.67-2.03,2.03-4.79,3.18-7.67,3.18h-62.55c-2.88,0-5.64-1.14-7.67-3.18-2.03-2.03-3.18-4.8-3.18-7.67s1.14-5.64,3.18-7.67c2.04-2.04,4.8-3.18,7.67-3.18h62.55c2.88,0,5.64,1.14,7.67,3.18,2.03,2.03,3.18,4.8,3.18,7.67Z"/>
+        <g class="cls-20">
+          <path class="cls-14" d="M295.56,238.85v21.7h-84.28v-21.7h84.28Z"/>
+        </g>
+      </g>
+    </g>
+    <g class="cls-12">
+      <g>
+        <path class="cls-14" d="M256.41,279.06l8.6,8.6c.33.33.51.77.51,1.23s-.18.91-.51,1.24l-8.6,8.6c-.33.33-.77.51-1.23.51s-.91-.18-1.24-.51l-8.6-8.6c-.33-.33-.51-.77-.51-1.24s.18-.9.51-1.23l8.6-8.6c.33-.33.77-.51,1.24-.51s.9.18,1.23.51Z"/>
+        <g class="cls-18">
+          <path class="cls-14" d="M244.12,277.83h22.13v22.13h-22.13v-22.13Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <text class="cls-13" transform="translate(63.17 421.5)"><tspan x="0" y="0">STUDIO FORTH</tspan><tspan class="cls-21" x="369.58" y="0">W</tspan><tspan x="419.8" y="0">ALL</tspan></text>
+</svg>
