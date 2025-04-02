@@ -6,7 +6,6 @@ $(document).ready(function () {
       $(".banner_title").fadeOut(500);
       $(".sidebar-menu ul li").each(function (index) {
         $(this)
-          .delay(200 * index)
           .fadeIn(500);
       });
     } else {
@@ -15,5 +14,30 @@ $(document).ready(function () {
       $(".banner_title").fadeIn(500);
       $(".sidebar-menu ul li").fadeOut(500);
     }
+  });
+
+  $(".myWrapper").easyTicker({
+    direction: "up", // Ticker moves upward
+    easing: "swing", // Easing effect (can be adjusted)
+    speed: "slow", // Speed of animation (adjust this as per your need)
+    interval: 2000, // Interval between transitions
+    height: "auto", // Adjust the height dynamically
+    visible: 1, // Number of visible items in the ticker
+    mousePause: true, // Pause the ticker on mouse hover
+    controls: {
+      up: "",
+      down: "",
+      toggle: "",
+      playText: "Play", // Play button text
+      stopText: "Stop", // Stop button text
+    },
+    callbacks: {
+      before: function () {
+        console.log("Before ticker transition");
+      },
+      after: function () {
+        console.log("After ticker transition");
+      },
+    },
   });
 });

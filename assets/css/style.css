@@ -1,3 +1,74 @@
+@font-face {
+  font-family: 'Alexandria';
+  src: url('fonts/Alexandria-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Alexandria';
+  src: url('fonts/Alexandria-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Alexandria';
+  src: url('fonts/Alexandria-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Alexandria';
+  src: url('fonts/Alexandria-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Alexandria';
+  src: url('../font/Alexandria-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Alexandria';
+  src: url('../font/Alexandria-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Alexandria';
+  src: url('../font/Alexandria-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Alexandria';
+  src: url('../font/Alexandria-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Alexandria';
+  src: url('../font/Alexandria-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+
+:root {
+  --primary-color: #1D242E;
+  --secondary-color: #ECDDD8;
+  --font-color: #F2F2F2;
+}
+
+
 * {
   margin: 0;
   padding: 0;
@@ -5,10 +76,17 @@
 }
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Alexandria', sans-serif;
 }
 
-.home_banner {
+.font-size-lg{
+  font-size: large;
+}
+
+.home_banner,
+.team_banner,
+.contact_banner,
+.studio_header {
   height: 100vh;
 }
 
@@ -48,12 +126,12 @@ body {
 }
 
 .banner_title h1 {
-  font-size: 3.5rem;
+  font-size: 4rem;
 }
 
 .footer-section {
-  background-color: #7e3230;
-  color: #f4ece6;
+  background-color: #1D242E;
+  color: #F2F2F2;
   font-size: 17px;
   line-height: 1.24;
 }
@@ -69,10 +147,10 @@ a:hover {
 
 
 .sidebar {
-  background-color: #722C2C;
+  background-color: #1D242E;
   width: 50%;
-  color: #f6ece5;
-  font-size: 35px;
+  color: #F2F2F2;
+  font-size: 32px;
   line-height: 1.26;
   pointer-events: auto;
   height: 100%;
@@ -90,9 +168,6 @@ a:hover {
   -ms-flex-align: start;
   align-items: flex-start;
   padding: 227px 80px 80px;
-  color: #f6ece5;
-  font-size: 35px;
-  line-height: 1.26;
   pointer-events: auto;
 }
 
@@ -110,4 +185,61 @@ a:hover {
 .sidebar-menu.active {
   left: 0;
   /* Slide in when active */
+}
+
+.team_banner_title {
+  bottom: 50px;
+}
+
+.team_banner_title h1 {
+  font-size: 4rem;
+  font-weight: normal;
+}
+
+
+
+.team_header {
+  background: url("../../assets/img/banner/team_banner.jpg") no-repeat center center/cover;
+}
+
+.contact_header,
+.contact_form {
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+}
+
+.contact_banner_title {
+  color: var(--secondary-color);
+  font-size: 32px;
+  font-weight: normal;
+}
+
+.contact-input {
+  background-color: transparent;
+  border: 0px;
+  border-bottom: 2px solid var(--secondary-color);
+  color: var(--secondary-color);
+  font-size: large;
+}
+
+.contact-input:focus {
+  outline: none;
+}
+
+.enquiry_btn {
+  background-color: transparent;
+  border: 0px;
+  font-size: large;
+  color: var(--secondary-color);
+}
+
+.enquiry_btn:hover {
+  color: #b3b1b1;
+}
+.contact_form a{
+  color: var(--secondary-color);
+}
+
+.studio_header{
+  background: url('../img/banner/studio_banner.jpg')no-repeat center center/cover;
 }
