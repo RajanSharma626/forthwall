@@ -94,6 +94,42 @@ body {
   background: url("../../assets/img/banner/home_banner.jpg") no-repeat center center/cover;
 }
 
+.word-carousel {
+  height: 60px; /* Adjust height based on font size */
+}
+
+.scroll-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  animation: scrollWords 16s infinite steps(1);
+}
+
+.scroll-list li {
+  height: 70px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  /* font-size: 48px; */
+  font-weight: bold;
+  color: #fff;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+@keyframes scrollWords {
+  0% { transform: translateY(0); }
+  12.5% { transform: translateY(-70px); }
+  25% { transform: translateY(-130px); }
+  37.5% { transform: translateY(-190px); }
+  50% { transform: translateY(-250px); }
+  62.5% { transform: translateY(-310px); }
+  75% { transform: translateY(-370px); }
+  87.5% { transform: translateY(-430px); }
+  100% { transform: translateY(0); }
+}
+
+
 .menu-icon {
   right: 20px;
   width: 40px;

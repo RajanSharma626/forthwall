@@ -1,3 +1,5 @@
+AOS.init();
+
 $(document).ready(function () {
   $("#menu").click(function () {
     if (!$(".sidebar-menu").hasClass("active")) {
@@ -16,28 +18,17 @@ $(document).ready(function () {
     }
   });
 
-  $(".myWrapper").easyTicker({
-    direction: "up", // Ticker moves upward
-    easing: "swing", // Easing effect (can be adjusted)
-    speed: "slow", // Speed of animation (adjust this as per your need)
-    interval: 2000, // Interval between transitions
-    height: "auto", // Adjust the height dynamically
-    visible: 1, // Number of visible items in the ticker
-    mousePause: true, // Pause the ticker on mouse hover
-    controls: {
-      up: "",
-      down: "",
-      toggle: "",
-      playText: "Play", // Play button text
-      stopText: "Stop", // Stop button text
-    },
-    callbacks: {
-      before: function () {
-        console.log("Before ticker transition");
-      },
-      after: function () {
-        console.log("After ticker transition");
-      },
-    },
-  });
+  
 });
+
+    const scrollList = document.querySelector(".scroll-list");
+    const items = Array.from(scrollList.children);
+
+    window.addEventListener("load", () => {
+        items.forEach((item) => {
+            const clone = item.cloneNode(true);
+            clone.setAttribute("aria-hidden", "true");
+            scrollList.appendChild(clone);
+        });
+    });
+
